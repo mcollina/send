@@ -27,6 +27,7 @@
     "mime": "1.4.1",
     "ms": "2.0.0",
     "on-finished": "~2.3.0",
+    "pump": "^3.0.0",
     "range-parser": "~1.2.0",
     "statuses": "~1.4.0"
   },
